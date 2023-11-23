@@ -1,0 +1,132 @@
+/* IMPOSTAZIONI GENERALI */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;900&display=swap');
+
+
+h1{
+    font-weight: 700;
+    margin: 2em;
+}
+h3{
+    font-weight: 700;
+    margin: 2em;
+}
+
+h4{
+    font-weight: 700;
+    margin: 2em;
+}
+h5{
+    font-weight: 700;
+    margin: 2em;
+}
+h1{
+    font-size: 2em;
+    font-weight: 700;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+ol{
+list-style: auto;
+padding-left: 50px;
+}
+ul{
+    list-style: disc;
+    padding-left: 50px;
+}
+
+#container{
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(assets/img/sfondo.png);
+}
+
+
+#logo{
+    width: 45%;
+    text-align: center;
+}
+
+header{
+    text-align: center;
+    color: white;
+    width: 80%;
+    height: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: linear-gradient(to bottom right, #0099bb, #016788);
+    box-shadow: 0px 6px 4px rgba(0, 0, 0, 0.5);
+}
+main{
+    width: 90%;
+    height: 60%;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    background-color:white ;
+    box-shadow: 0px 6px 4px rgba(0, 0, 0, 0.5);
+
+}
+#subtitle{
+    color: gray;
+}
+table{
+    
+        table-layout : fixed;
+        width : 400px;
+        height: 200px;
+        background : white;
+        caption-side : bottom;
+        margin: 20px;
+        border-top: 1px #386dc6;
+        border-bottom: 1px #386dc6;
+        box-shadow: 0px 6px 4px rgba(0, 0, 0, 0.5);
+}
+tr{
+    border-top: 1px solid grey;
+    border-bottom: 1px solid gray;
+}
+thead{
+    background-color: #386dc6;
+}
+.grey{
+    background-color: lightgrey;
+}
+.caption{
+    text-align: center;
+}
+iframe{
+    margin: 25px;
+    border-radius: 1em;
+}
+.newsletter{
+    margin: 25px;
+    background-color: lightgray;
+    box-shadow: 0px 6px 4px rgba(0, 0, 0, 0.5);
+}
+form{
+    margin-top: 15px;
+}
+button{
+    background-color: #386dc6;
+}
+.articolo{
+
+    background-color: #dde2e2;
+    margin: 25px;
+    box-shadow: 0px 6px 4px rgba(0, 0, 0, 0.5);
+}
+p{
+    margin: 10px;
+}
+a{
+    margin: 10px;
+}
+.diritti{
+    margin: 25px;
+    background-color: #055268;
+    box-shadow: 0px 6px 4px rgba(0, 0, 0, 0.5);
+
+}
